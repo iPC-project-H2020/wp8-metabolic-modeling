@@ -1,0 +1,1374 @@
+Glycine, serine, alanine and threonine metabolism;2AMACHYD
+Lysine metabolism;2AMADPTm
+Pyrimidine catabolism;2DR1PP
+Transport, extracellular;2HCO3_NAt
+Lysine metabolism;2OXOADOXm
+Tryptophan metabolism;2OXOADPTm
+Tyrosine metabolism;34HPPOR
+Transport, extracellular;3AIBt
+Valine, leucine, and isoleucine metabolism;3AIBTm
+Transport, mitochondrial;3AIBtm
+Tryptophan metabolism;3HAO
+Valine, leucine, and isoleucine metabolism;3HBCOAHLm
+Tryptophan metabolism;3HKYNAKGAT
+Transport, mitochondrial;3MOBt2im
+Transport, mitochondrial;3MOPt2im
+Transport, mitochondrial;3SALAASPm
+Methionine and cysteine metabolism;3SALATAi
+Methionine and cysteine metabolism;3SALATAim
+Methionine and cysteine metabolism;3SPYRSP
+Methionine and cysteine metabolism;3SPYRSPm
+Transport, mitochondrial;4ABUTtm
+Transport, mitochondrial;4MOPt2im
+Transport, extracellular;5MTHFt
+Transport, extracellular;5MTHFt2
+Propanoate metabolism;AACOAT
+Glycine, serine, alanine and threonine metabolism;AACTOOR
+Transport, mitochondrial;AACTtm
+Lysine metabolism;AASAD3m
+Lysine metabolism;AATAi
+Glutamate metabolism;ABTArm
+beta-Alanine metabolism;ABUTD
+Transport, extracellular;ABUTt2r
+Transport, extracellular;ABUTt4_2_r
+Valine, leucine, and isoleucine metabolism;ACACT10m
+Tryptophan metabolism;ACACT1r
+Transport, extracellular;ACACt2
+Transport, mitochondrial;ACACt2m
+Transport, extracellular;ACETONEt2
+Transport, mitochondrial;ACETONEt2m
+Citric acid cycle;ACITL
+Valine, leucine, and isoleucine metabolism;ACOAD10m
+Valine, leucine, and isoleucine metabolism;ACOAD9m
+Pyruvate metabolism;ACOAHi
+Citric acid cycle;ACONT
+Citric acid cycle;ACONTm
+Glycolysis/gluconeogenesis;ACS
+Glycolysis/gluconeogenesis;ACSm
+Transport, mitochondrial;ACt2m
+Transport, extracellular;ACt2r
+Pyruvate metabolism;ACTLMO
+Pyruvate metabolism;ACTNMO
+Glycolysis/gluconeogenesis;ACYP
+Propanoate metabolism;ADCim
+Transport, extracellular;ADEt
+Nucleotide interconversion;ADK1
+Nucleotide interconversion;ADK1m
+Nucleotide interconversion;ADK3
+Nucleotide interconversion;ADK3m
+Arginine and Proline Metabolism;ADMDC
+Nucleotide interconversion;ADNK1
+Nucleotide salvage pathway;ADPT
+Transport, peroxisomal;ADPtx
+Alanine and aspartate metabolism;AGTim
+Methionine and cysteine metabolism;AHC
+Citric acid cycle;AKGDm
+Transport, mitochondrial;AKGMALtm
+Transport, extracellular;AKGt4_3
+Transport, extracellular;ALAASNNaEx
+Transport, extracellular;ALACYSNaEx
+Transport, extracellular;ALAGLNexR
+Transport, extracellular;ALAGLNNaEx
+Transport, extracellular;ALAGLYexR
+Transport, extracellular;ALASERNaEx
+Transport, extracellular;ALAt2r
+Transport, extracellular;ALAt4
+Glutamate metabolism;ALATA_L
+Transport, extracellular;ALATHRNaEx
+Transport, extracellular;ALAtN1
+Tryptophan metabolism;AMCOXO
+Transport, mitochondrial;AMETt2m
+Transport, peroxisomal;AMPtp
+Glycine, serine, alanine and threonine metabolism;AOBUTDsm
+beta-Alanine metabolism;APAT2rm
+Transport, extracellular;ARGLYSex
+Urea cycle;ARGN
+Urea cycle;ARGNm
+Transport, extracellular;ARGt4
+Transport, extracellular;ARGtiDF
+Transport, mitochondrial;ARGtm
+Transport, extracellular;ASNALANaEx
+Transport, extracellular;ASNCYSNaEx
+Transport, extracellular;ASNGLNNaEx
+Alanine and aspartate metabolism;ASNS1
+Transport, extracellular;ASNSERNaEx
+Transport, extracellular;ASNt4
+Transport, extracellular;ASNTHRNaEx
+Transport, extracellular;ASNtN1
+Transport, mitochondrial;ASPGLUm
+Alanine and aspartate metabolism;ASPTA
+Alanine and aspartate metabolism;ASPTAm
+Transport, endoplasmic reticular;ATP1ter
+ETC_Rxns;ATPS4m
+Transport, mitochondrial;ATPtm
+Transport, peroxisomal;ATPtx
+Transport, mitochondrial;BALAtmr
+Transport, extracellular;BALAVECSEC
+Glycine, serine, alanine and threonine metabolism;BETALDHxm
+Glycine, serine, alanine and threonine metabolism;BHMT
+ROS detoxification;CATm
+Miscellaneous;CATp
+Pyrimidine synthesis;CBPS
+Glutamate metabolism;CBPSam
+Transport, mitochondrial;CHLtm
+Glycine, serine, alanine and threonine metabolism;CHOLD2m
+Transport, extracellular;CHOLt4
+Transport, extracellular;CHOLtu
+Transport, extracellular;CHSTEROLt
+Transport, mitochondrial;CHSTEROLt1
+Transport, mitochondrial;CHSTEROLt2
+Transport, mitochondrial;CHSTEROLt3
+Citric acid cycle;CITL
+Transport, mitochondrial;CITRtm
+Transport, extracellular;CITt4_2
+Transport, mitochondrial;CITtam
+Transport, mitochondrial;CITtbm
+Urea cycle;CK
+Urea cycle;CKc
+Transport, extracellular;CLFORtex
+Transport, extracellular;CLHCO3tex2
+Transport, extracellular;CLOHtex2
+Transport, extracellular;CLOXAtex2
+Transport, extracellular;CO2t
+Transport, endoplasmic reticular;CO2ter
+Transport, mitochondrial;CO2tm
+Transport, mitochondrial;COAtm
+Transport, extracellular;CREATt4_2_r
+Urea cycle;CREATtmdiffir
+Citric acid cycle;CSm
+Nucleotide interconversion;CTPS1
+Pyrimidine synthesis;CTPS2
+ETC_Rxns;CYOR_u10m
+Transport, extracellular;CYSALANaEx
+Transport, extracellular;CYSASNNaEx
+Transport, extracellular;CYSGLNNaEx
+Transport, extracellular;CYSGLUexR
+Transport, extracellular;CYSGLYexR
+Taurine and hypotaurine metabolism;CYSO
+Transport, extracellular;CYSSERNaEx
+Transport, extracellular;CYSt4
+Transport, extracellular;CYStec
+Methionine and cysteine metabolism;CYSTGL
+Transport, extracellular;CYSTHRNaEx
+Methionine and cysteine metabolism;CYSTS
+Transport, extracellular;D_3AIBt
+Pyrimidine catabolism;D3AIBTm
+Transport, nuclear;DATPtn
+Transport, nuclear;DCTPtn
+Transport, nuclear;DGTPtn
+Tetrahydrobiopterin metabolism;DHPR
+Exchange/demand reaction;ATPM
+Glycine, serine, alanine and threonine metabolism;DMGDHm
+Transport, mitochondrial;DMGtm
+Transport, mitochondrial;DNDPt11m
+Transport, mitochondrial;DNDPt23m
+Transport, mitochondrial;DNDPt24m
+Transport, mitochondrial;DNDPt34m
+Transport, mitochondrial;DNDPt35m
+Transport, mitochondrial;DNDPt9m
+Glycolysis/gluconeogenesis;DPGase
+Glycolysis/gluconeogenesis;DPGM
+Pentose phosphate pathway;DRBK
+Transport, nuclear;DTTPtn
+Valine, leucine, and isoleucine metabolism;ECOAH12m
+Tryptophan metabolism;ECOAH1m
+Valine, leucine, and isoleucine metabolism;ECOAH9m
+Glycolysis/gluconeogenesis;ENO
+Exchange/demand reaction;EX_3aib_e
+Exchange/demand reaction;EX_3aib_D_e
+Exchange/demand reaction;EX_4abut_e
+Exchange/demand reaction;EX_ac_e
+Exchange/demand reaction;EX_acac_e
+Exchange/demand reaction;EX_acetone_e
+Exchange/demand reaction;EX_ade_e
+Exchange/demand reaction;EX_akg_e
+Exchange/demand reaction;EX_ala_B_e
+Exchange/demand reaction;EX_ala_L_e
+Exchange/demand reaction;EX_arg_L_e
+Exchange/demand reaction;EX_asn_L_e
+Exchange/demand reaction;EX_asp_L_e
+Exchange/demand reaction;EX_chol_e
+Exchange/demand reaction;EX_chsterol_e
+Exchange/demand reaction;EX_cit_e
+Exchange/demand reaction;EX_co2_e
+Exchange/demand reaction;EX_creat_e
+Exchange/demand reaction;EX_for_e
+Exchange/demand reaction;EX_glc_e
+Exchange/demand reaction;EX_gln_L_e
+Exchange/demand reaction;EX_glu_L_e
+Exchange/demand reaction;EX_gly_e
+Exchange/demand reaction;EX_glyb_e
+Exchange/demand reaction;EX_gthrd_e
+Exchange/demand reaction;EX_h_e
+Exchange/demand reaction;EX_h2o_e
+Exchange/demand reaction;EX_h2o2_e
+Exchange/demand reaction;EX_hco3_e
+Exchange/demand reaction;EX_his_L_e
+Exchange/demand reaction;EX_hista_e
+Exchange/demand reaction;EX_ile_L_e
+Exchange/demand reaction;EX_lac_L_e
+Exchange/demand reaction;EX_leu_L_e
+Exchange/demand reaction;EX_lys_L_e
+Exchange/demand reaction;EX_met_L_e
+Exchange/demand reaction;EX_mthgxl_e
+Exchange/demand reaction;EX_nh4_e
+Exchange/demand reaction;EX_o2_e
+Exchange/demand reaction;EX_o2s_e
+Exchange/demand reaction;EX_orn_e
+Exchange/demand reaction;EX_phe_L_e
+Exchange/demand reaction;EX_pi_e
+Exchange/demand reaction;EX_pro_L_e
+Exchange/demand reaction;EX_pyr_e
+Exchange/demand reaction;EX_ser_L_e
+Exchange/demand reaction;EX_so4_e
+Exchange/demand reaction;EX_succ_e
+Exchange/demand reaction;EX_thr_L_e
+Exchange/demand reaction;EX_trp_L_e
+Exchange/demand reaction;EX_tyr_L_e
+Exchange/demand reaction;EX_urea_e
+Exchange/demand reaction;EX_val_L_e
+Transport, mitochondrial;FALDtm
+Glycolysis/gluconeogenesis;FBA
+Glycolysis/gluconeogenesis;FBP
+Fatty acid oxidation;FDH
+Tryptophan metabolism;FKYNH
+Transport, endoplasmic reticular;FORtr
+Folate metabolism;FTCD
+Folate metabolism;FTHFDH
+Citric acid cycle;FUM
+Tyrosine metabolism;FUMAC
+Citric acid cycle;FUMm
+Transport, mitochondrial;FUMSO3tm
+Transport, mitochondrial;FUMSO4tm
+Transport, mitochondrial;FUMtm
+Transport, mitochondrial;FUMTSULtm
+Glycerophospholipid metabolism;G3PD1
+Glycolysis/gluconeogenesis;G3PD2m
+Arginine and Proline Metabolism;G5SADrm
+Urea cycle;G5SADs
+Urea cycle;G5SDym
+Aminosugar metabolism;G6PDA
+Pentose phosphate pathway;G6PDH1rer
+Pentose phosphate pathway;G6PDH2r
+Pentose phosphate pathway;G6PDH2rer
+Glycolysis/gluconeogenesis;G6PPer
+Transport, endoplasmic reticular;G6Pter
+Transport, extracellular;GABAVESSEC
+Urea cycle;GACMTRc
+Glycolysis/gluconeogenesis;GAPD
+Glycine, serine, alanine and threonine metabolism;GCC2am
+Glycine, serine, alanine and threonine metabolism;GCC2bim
+Glycine, serine, alanine and threonine metabolism;GCC2cm
+Glycine, serine, alanine and threonine metabolism;GCCam
+Glycine, serine, alanine and threonine metabolism;GCCbim
+Glycine, serine, alanine and threonine metabolism;GCCcm
+Aminosugar metabolism;GF6PTA
+Glycine, serine, alanine and threonine metabolism;GHMT2r
+Glycine, serine, alanine and threonine metabolism;GHMT2rm
+Nucleotide interconversion;GK1
+Transport, extracellular;GLCMter
+Transport, extracellular;GLCt1r
+Transport, extracellular;GLCt2_2
+Transport, extracellular;GLCt4
+Transport, endoplasmic reticular;GLCter
+Transport, endoplasmic reticular;GLCURter
+Transport, extracellular;GLNALANaEx
+Transport, extracellular;GLNASNNaEx
+Transport, extracellular;GLNCYSNaEx
+Glutamate metabolism;GLNS
+Transport, extracellular;GLNSERNaEx
+Transport, extracellular;GLNt4
+Transport, extracellular;GLNTHRNaEx
+Transport, mitochondrial;GLNtm
+Transport, extracellular;GLNtN1
+Urea cycle;GLU5Km
+Glutathione metabolism;GLUCYS
+Glutamate metabolism;GLUDC
+Glutamate metabolism;GLUDxm
+Glutamate metabolism;GLUDym
+Histidine metabolism;GluForTx
+Glutamate metabolism;GLUNm
+Purine synthesis;GLUPRT
+Transport, mitochondrial;GLUt2m
+Tryptophan metabolism;GLUTCOADHm
+Transport, extracellular;GLUVESSEC
+Transport, mitochondrial;GLXtm
+Transport, peroxisomal;GLXtp
+Urea cycle;GLYAMDTRc
+Glycine, serine, alanine and threonine metabolism;GLYATm
+Transport, extracellular;GLYBt4_2_r
+Transport, mitochondrial;GLYBtm
+Transport, mitochondrial;GLYC3Ptm
+Glycine, serine, alanine and threonine metabolism;GLYOp
+Transport, extracellular;GLYt2r
+Transport, extracellular;GLYt4
+Transport, extracellular;GLYt7_211_r
+Transport, mitochondrial;GLYtm
+Transport, peroxisomal;GLYtp
+Transport, extracellular;GLYVESSEC
+Nucleotide interconversion;GMPS2
+Pentose phosphate pathway;GND
+Pentose phosphate pathway;GNDer
+Glycine, serine, alanine and threonine metabolism;GNMT
+Glutamate metabolism;GTHO
+Glutamate metabolism;GTHOm
+Glutathione metabolism;GTHP
+Glutathione metabolism;GTHPm
+Glutathione metabolism;GTHRDt
+Glutathione metabolism;GTHS
+Pentose phosphate pathway;GULNDer
+Transport, endoplasmic reticular;GULNter
+Miscellaneous;H2CO3D
+Tyrosine metabolism;H2O2syn
+Transport, extracellular;H2O2t
+Transport, mitochondrial;H2O2tm
+Transport, peroxisomal;H2O2tp
+Transport, extracellular;H2Ot
+Transport, endoplasmic reticular;H2Oter
+Transport, mitochondrial;H2Otm
+Transport, peroxisomal;H2Otp
+Tryptophan metabolism;HACD1m
+Valine, leucine, and isoleucine metabolism;HACD9m
+Transport, extracellular;HCO3_CLt
+Glycolysis/gluconeogenesis;HEX1
+Tyrosine metabolism;HGNTOR
+Valine, leucine, and isoleucine metabolism;HIBDm
+Histidine metabolism;HISD
+Histidine metabolism;HISDC
+Transport, extracellular;HISt4
+Transport, extracellular;HISTAtu
+Transport, extracellular;HISTAVESSEC
+Transport, extracellular;HIStiDF
+Transport, extracellular;HIStN1
+Tryptophan metabolism;HKYNH
+Cholesterol metabolism;HMGCOASim
+Transport, mitochondrial;HMGCOAtm
+Cholesterol metabolism;HMGLm
+Transport, extracellular;HOMt4
+Transport, mitochondrial;Htm
+Transport, endoplasmic reticular;Htr
+Transport, peroxisomal;Htx
+Citric acid cycle;ICDHxm
+Citric acid cycle;ICDHy
+Citric acid cycle;ICDHyrm
+Transport, extracellular;ILEt4
+Transport, mitochondrial;ILEt5m
+Valine, leucine, and isoleucine metabolism;ILETA
+Valine, leucine, and isoleucine metabolism;ILETAm
+Transport, extracellular;ILEtec
+Histidine metabolism;IZPN
+Transport, extracellular;KCC2t
+Tryptophan metabolism;KYN3OX
+Tryptophan metabolism;KYNAKGAT
+Tryptophan metabolism;KYNATESYN
+Glycolysis/gluconeogenesis;LDH_L
+Transport, extracellular;LEUt4
+Transport, mitochondrial;LEUt5m
+Valine, leucine, and isoleucine metabolism;LEUTA
+Valine, leucine, and isoleucine metabolism;LEUTAm
+Transport, extracellular;LEUtec
+Pyruvate metabolism;L_LACDcm
+Transport, extracellular;L_LACt2r
+Transport, extracellular;L_LACt4r
+Transport, extracellular;LYSt4
+Transport, extracellular;LYStiDF
+Transport, mitochondrial;LYStm
+Tyrosine metabolism;MACACI
+Transport, mitochondrial;MALSO3tm
+Transport, mitochondrial;MALSO4tm
+Transport, mitochondrial;MALtm
+Transport, mitochondrial;MALTSULtm
+Valine, leucine, and isoleucine metabolism;MCCCrm
+Citric acid cycle;MDH
+Citric acid cycle;MDHm
+Pyruvate metabolism;ME1m
+Pyruvate metabolism;ME2
+Pyruvate metabolism;ME2m
+Methionine and cysteine metabolism;METAT
+Transport, extracellular;METLEUex
+Methionine and cysteine metabolism;METS
+Transport, extracellular;METt4
+Transport, extracellular;METtec
+Valine, leucine, and isoleucine metabolism;MGCHrm
+Pyruvate metabolism;MGSA
+Pyruvate metabolism;MGSA2
+Valine, leucine, and isoleucine metabolism;MMEm
+Valine, leucine, and isoleucine metabolism;MMMm
+Propanoate metabolism;MMSAD3m
+Valine, leucine, and isoleucine metabolism;MMTSADm
+Folate metabolism;MTHFC
+Folate metabolism;MTHFD
+Transport, extracellular;MTHGXLt
+ETC_Rxns;NADH2_u10m
+Transport, peroxisomal;NADHtpu
+Transport, endoplasmic reticular;NADHtru
+Transport, endoplasmic reticular;NADPHtru
+Transport, endoplasmic reticular;NADPtru
+Transport, peroxisomal;NADtpu
+Transport, endoplasmic reticular;NADtru
+Transport, extracellular;NAHCO3_HCLt
+Transport, extracellular;NAt
+Transport, extracellular;NAt3_1
+Transport, extracellular;NAt5
+Transport, extracellular;NCCt
+Nucleotide interconversion;NDPK1
+Nucleotide interconversion;NDPK1m
+Nucleotide interconversion;NDPK2
+Nucleotide interconversion;NDPK3
+Nucleotide interconversion;NDPK4
+Nucleotide interconversion;NDPK5
+Nucleotide interconversion;NDPK8
+Nucleotide interconversion;NDPK9
+Transport, extracellular;NH4t3r
+Transport, peroxisomal;NH4tp
+Transport, extracellular;NKCC2t
+Transport, extracellular;NRPPHRt4_2_r
+Transport, extracellular;NRPPHRtu
+Transport, extracellular;NRPPHRVESSEC
+Nucleotide interconversion;NTD7
+Transport, extracellular;O2St
+Transport, mitochondrial;O2Stm
+Transport, peroxisomal;O2Stx
+Transport, extracellular;O2t
+Transport, endoplasmic reticular;O2ter
+Transport, mitochondrial;O2tm
+Transport, peroxisomal;O2tp
+Glycine, serine, alanine and threonine metabolism;OBDHc
+Urea cycle;OCBTm
+Valine, leucine, and isoleucine metabolism;OIVD1m
+Valine, leucine, and isoleucine metabolism;OIVD2m
+Valine, leucine, and isoleucine metabolism;OIVD3m
+Urea cycle;ORNDC
+Transport, mitochondrial;ORNt3m
+Transport, mitochondrial;ORNt4m
+Urea cycle;ORNTArm
+Transport, extracellular;ORNtiDF
+Transport, extracellular;OXAHCOtex
+Glutamate metabolism;P5CDm
+Arginine and Proline Metabolism;P5CRm
+Arginine and Proline Metabolism;P5CRxm
+Tryptophan metabolism;PCLAD
+Pyruvate metabolism;PCm
+Urea cycle;PCREATtmdiffir
+Glycolysis/gluconeogenesis;PDHm
+Transport, mitochondrial;PE_HStm
+Glycolysis/gluconeogenesis;PEPCK
+Glycolysis/gluconeogenesis;PEPCKm
+Glycolysis/gluconeogenesis;PFK
+Glycine, serine, alanine and threonine metabolism;PGCD
+Glycolysis/gluconeogenesis;PGI
+Glycolysis/gluconeogenesis;PGK
+Pentose phosphate pathway;PGL
+Pentose phosphate pathway;PGLer
+Glycolysis/gluconeogenesis;PGM
+Transport, extracellular;PHEt4
+Transport, extracellular;PHEtec
+Transport, extracellular;PIt7
+Transport, endoplasmic reticular;PIter
+ETC_Rxns;PPA
+ETC_Rxns;PPAm
+Valine, leucine, and isoleucine metabolism;PPCOACm
+Propanoate metabolism;PPCOAOm
+Transport, endoplasmic reticular;PPItr
+Pentose phosphate pathway;PPM
+Purine synthesis;PRFGS
+Arginine and Proline Metabolism;PRO1xm
+Arginine and Proline Metabolism;PROD2m
+Transport, extracellular;PROt2r
+Transport, extracellular;PROt4
+beta-Alanine metabolism;PRPNCOAHYDm
+Pentose phosphate pathway;PRPPS
+Glycine, serine, alanine and threonine metabolism;PSERT
+Transport, mitochondrial;PSFLIPm
+Glycine, serine, alanine and threonine metabolism;PSP_L
+Arginine and Proline Metabolism;PTRCOX1
+Nucleotide interconversion;PUNP1
+Glycolysis/gluconeogenesis;PYK
+Transport, mitochondrial;PYRt2m
+D-alanine metabolism;PYRt2p
+Transport, extracellular;PYRt2r
+Transport, extracellular;RETNt
+Pentose phosphate pathway;RPE
+Pentose phosphate pathway;RPI
+Lysine metabolism;SACCD3m
+Lysine metabolism;SACCD4m
+Transport, mitochondrial;SARCStm
+Urea cycle;SARDHm
+Transport, extracellular;SERALANaEx
+Transport, extracellular;SERASNNaEx
+Transport, extracellular;SERCYSNaEx
+Transport, extracellular;SERGLNexR
+Transport, extracellular;SERGLNNaEx
+Transport, extracellular;SERGLYexR
+Glycine, serine, alanine and threonine metabolism;SERHL
+Transport, extracellular;SERLYSNaex
+Transport, extracellular;SERt4
+Transport, extracellular;SERTHRNaEx
+Transport, extracellular;SERtN1
+Transport, extracellular;SO4CLtex2
+Transport, extracellular;SO4HCOtex
+Transport, extracellular;SO4OXAtex2
+Transport, extracellular;SO4t4_2
+beta-Alanine metabolism;SPMDOX
+Urea cycle;SPMS
+ROS detoxification;SPODM
+ROS detoxification;SPODMe
+ROS detoxification;SPODMm
+ROS detoxification;SPODMx
+Urea cycle;SPRMS
+Transport, mitochondrial;SUCCt2m
+Transport, extracellular;SUCCt4_2
+Citric acid cycle;SUCD1m
+Citric acid cycle;SUCOAS1m
+Citric acid cycle;SUCOASm
+Methionine and cysteine metabolism;SULFOX
+Pentose phosphate pathway;TALA
+NAD metabolism;THD1m
+Transport, extracellular;THRALANaEx
+Transport, extracellular;THRASNNaEx
+Transport, extracellular;THRCYSNaEx
+Glycine, serine, alanine and threonine metabolism;THRD_L
+Transport, extracellular;THRGLNexR
+Transport, extracellular;THRGLNNaEx
+Transport, extracellular;THRGLYexR
+Transport, extracellular;THRSERNaEx
+Transport, extracellular;THRt4
+Pentose phosphate pathway;TKT1
+Pentose phosphate pathway;TKT2
+Glycolysis/gluconeogenesis;TPI
+Tryptophan metabolism;TRPO2
+Transport, extracellular;TRPt
+Transport, extracellular;TRPt4
+Transport, extracellular;TYRt
+Transport, extracellular;TYRt4
+Tyrosine metabolism;TYRTA
+Transport, endoplasmic reticular;UDPGLCAter
+Nucleotide interconversion;UMPK
+Nucleotide interconversion;UMPK2
+Nucleotide interconversion;UMPK3
+Nucleotide interconversion;UMPK4
+Nucleotide interconversion;UMPK5
+Nucleotide interconversion;UMPK7
+Transport, endoplasmic reticular;UMPtr
+Histidine metabolism;URCN
+Transport, extracellular;UREAt
+Transport, extracellular;UREAt5
+Urea cycle;UREAtm
+Transport, extracellular;VALt4
+Transport, mitochondrial;VALt5m
+Valine, leucine, and isoleucine metabolism;VALTA
+Valine, leucine, and isoleucine metabolism;VALTAm
+Transport, extracellular;VALtec
+Pentose phosphate pathway;XYLUR
+Exchange/demand reaction;EX_fald_e
+Exchange/demand reaction;EX_ptrc_e
+Exchange/demand reaction;EX_spmd_e
+ROS detoxification;r0010
+Glutathione metabolism;r0021
+Glutathione metabolism;r0022
+Purine catabolism;r0028
+Urea cycle;r0034
+Pyruvate metabolism;r0055
+Cysteine Metabolism;r0060
+Pyruvate metabolism;r0062
+Urea cycle;r0074
+Citric acid cycle;r0081
+Urea cycle;r0085
+Urea cycle;r0086
+Purine catabolism;r0119
+Glycolysis/gluconeogenesis;r0122
+Alanine and aspartate metabolism;r0127
+Methionine and cysteine metabolism;r0142
+Glycolysis/gluconeogenesis;r0153
+Urea cycle;r0156
+Urea cycle;r0157
+Glycolysis/gluconeogenesis;r0165
+Glycolysis/gluconeogenesis;r0173
+Glutamate metabolism;r0178
+Glutamate metabolism;r0179
+Fructose and mannose metabolism;r0191
+Glycolysis/gluconeogenesis;r0202
+Pentose phosphate pathway;r0249
+Glycolysis/gluconeogenesis;r0280
+Glycine, serine, alanine and threonine metabolism;r0295
+Bile acid synthesis;r0301
+Unassigned;r0317
+Glycolysis/gluconeogenesis;r0354
+Glycolysis/gluconeogenesis;r0355
+Propanoate metabolism;r0365
+Tetrahydrobiopterin metabolism;r0398
+Tetrahydrobiopterin metabolism;r0399
+Glycolysis/gluconeogenesis;r0413
+Unassigned;r0426
+Lysine metabolism;r0450
+Glutamate metabolism;r0464
+Pyrimidine catabolism;r0483
+Citric acid cycle;r0509
+Lysine metabolism;r0525
+Tryptophan metabolism;r0541
+Glutamate metabolism;r0549
+Glycine, serine, alanine and threonine metabolism;r0552
+Glycine, serine, alanine and threonine metabolism;r0553
+Valine, leucine, and isoleucine metabolism;r0560
+Pentose phosphate pathway;r0570
+CoA synthesis;r0596
+Tryptophan metabolism;r0645
+Tryptophan metabolism;r0647
+Valine, leucine, and isoleucine metabolism;r0655
+Valine, leucine, and isoleucine metabolism;r0669
+Unassigned;r0683
+Unassigned;r0779
+Pentose phosphate pathway;r0784
+Folate metabolism;r0792
+Transport, mitochondrial;r0801
+Purine catabolism;r0812
+Transport, extracellular;r0817
+Transport, mitochondrial;r0819
+Transport, mitochondrial;r0821
+Transport, mitochondrial;r0822
+Transport, mitochondrial;r0829
+Transport, mitochondrial;r0830
+Transport, mitochondrial;r0838
+Transport, extracellular;r0839
+Transport, endoplasmic reticular;r0840
+Transport, endoplasmic reticular;r0841
+Purine catabolism;r0860
+Transport, extracellular;r0879
+Transport, extracellular;r0881
+Transport, mitochondrial;r0885
+Transport, extracellular;r0899
+Transport, mitochondrial;r0911
+Transport, mitochondrial;r0913
+Transport, mitochondrial;r0915
+Transport, mitochondrial;r0917
+Transport, extracellular;r0924
+Transport, mitochondrial;r0941
+Transport, extracellular;r0942
+Transport, extracellular;r0944
+Transport, extracellular;r0946
+Transport, extracellular;r1030
+Transport, extracellular;r1050
+Transport, endoplasmic reticular;r1051
+Transport, lysosomal;r1052
+Transport, extracellular;r1088
+Transport, extracellular;r1090
+Unassigned;r1109
+Transport, extracellular;r1143
+Transport, extracellular;r1144
+Transport, peroxisomal;r1147
+Propanoate metabolism;r1154
+Transport, mitochondrial;r1155
+Transport, extracellular;r1162
+Transport, mitochondrial;r1291
+Transport, extracellular;r1421
+Transport, mitochondrial;r1427
+Transport, peroxisomal;r1428
+Transport, peroxisomal;r1429
+Transport, mitochondrial;r1434
+Transport, mitochondrial;r1435
+Unassigned;r1453
+Transport, mitochondrial;r1454
+Transport, mitochondrial;r1464
+Transport, extracellular;r1493
+Transport, extracellular;r1530
+Transport, extracellular;r1538
+Transport, extracellular;r1544
+Transport, extracellular;r1546
+Transport, extracellular;r1547
+Transport, extracellular;r1548
+Transport, extracellular;r1549
+Transport, extracellular;r1551
+Transport, extracellular;r1552
+Transport, extracellular;r1553
+Transport, extracellular;r1554
+Transport, extracellular;r1556
+Transport, extracellular;r1557
+Transport, extracellular;r1559
+Transport, extracellular;r1560
+Transport, extracellular;r1561
+Transport, extracellular;r1562
+Transport, extracellular;r1563
+Transport, extracellular;r1564
+Transport, extracellular;r1565
+Transport, extracellular;r1566
+Transport, extracellular;r1567
+Transport, extracellular;r1568
+Transport, extracellular;r1569
+Transport, extracellular;r1570
+Transport, extracellular;r1571
+Transport, extracellular;r1573
+Transport, extracellular;r1574
+Transport, extracellular;r1575
+Transport, extracellular;r1576
+Transport, extracellular;r1578
+Transport, extracellular;r1579
+Transport, extracellular;r1580
+Transport, extracellular;r1581
+Transport, extracellular;r1583
+Transport, extracellular;r1584
+Transport, extracellular;r1585
+Transport, extracellular;r1586
+Transport, extracellular;r1587
+Transport, extracellular;r1588
+Transport, extracellular;r1589
+Transport, extracellular;r1590
+Transport, extracellular;r1591
+Transport, extracellular;r1592
+Transport, extracellular;r1593
+Transport, extracellular;r1594
+Transport, extracellular;r1595
+Transport, extracellular;r1596
+Transport, extracellular;r1597
+Transport, extracellular;r1598
+Transport, extracellular;r1599
+Transport, extracellular;r1600
+Transport, extracellular;r1602
+Transport, extracellular;r1603
+Transport, extracellular;r1604
+Transport, extracellular;r1605
+Transport, extracellular;r1606
+Transport, extracellular;r1607
+Transport, extracellular;r1608
+Transport, extracellular;r1609
+Transport, extracellular;r1610
+Transport, extracellular;r1611
+Transport, extracellular;r1612
+Transport, extracellular;r1613
+Transport, extracellular;r1614
+Transport, extracellular;r1615
+Transport, extracellular;r1616
+Transport, extracellular;r1617
+Transport, extracellular;r1618
+Transport, extracellular;r1619
+Transport, extracellular;r1620
+Transport, extracellular;r1621
+Transport, extracellular;r1622
+Transport, extracellular;r1623
+Transport, extracellular;r1624
+Transport, extracellular;r1625
+Transport, extracellular;r1626
+Transport, extracellular;r1627
+Transport, extracellular;r1628
+Transport, extracellular;r1629
+Transport, extracellular;r1630
+Transport, extracellular;r1631
+Transport, extracellular;r1632
+Transport, extracellular;r1633
+Transport, extracellular;r1634
+Transport, extracellular;r1635
+Transport, extracellular;r1636
+Transport, extracellular;r1637
+Transport, extracellular;r1638
+Transport, extracellular;r1639
+Transport, extracellular;r1640
+Transport, extracellular;r1641
+Transport, extracellular;r1642
+Transport, extracellular;r1643
+Transport, extracellular;r1644
+Transport, extracellular;r1645
+Transport, extracellular;r1646
+Transport, extracellular;r1647
+Transport, extracellular;r1648
+Transport, extracellular;r1649
+Transport, extracellular;r1650
+Transport, extracellular;r1651
+Transport, extracellular;r1652
+Transport, extracellular;r1653
+Transport, extracellular;r1654
+Transport, extracellular;r1655
+Transport, extracellular;r1656
+Transport, extracellular;r1657
+Transport, extracellular;r1658
+Transport, extracellular;r1659
+Transport, extracellular;r1660
+Transport, extracellular;r1661
+Transport, extracellular;r1662
+Transport, extracellular;r1664
+Transport, extracellular;r1665
+Transport, extracellular;r1666
+Transport, extracellular;r1667
+Transport, extracellular;r1668
+Transport, extracellular;r1669
+Transport, extracellular;r1670
+Transport, extracellular;r1671
+Transport, extracellular;r1672
+Transport, extracellular;r1673
+Transport, extracellular;r1674
+Transport, extracellular;r1675
+Transport, extracellular;r1676
+Transport, extracellular;r1677
+Transport, extracellular;r1678
+Transport, extracellular;r1679
+Transport, extracellular;r1680
+Transport, extracellular;r1681
+Transport, extracellular;r1682
+Transport, extracellular;r1683
+Transport, extracellular;r1684
+Transport, extracellular;r1685
+Transport, extracellular;r1686
+Transport, extracellular;r1687
+Transport, extracellular;r1690
+Transport, extracellular;r1691
+Transport, extracellular;r1692
+Transport, extracellular;r1693
+Transport, extracellular;r1695
+Transport, extracellular;r1696
+Transport, extracellular;r1698
+Transport, extracellular;r1700
+Transport, extracellular;r1701
+Transport, extracellular;r1702
+Transport, extracellular;r1705
+Transport, extracellular;r1706
+Transport, extracellular;r1707
+Transport, extracellular;r1708
+Transport, extracellular;r1710
+Transport, extracellular;r1711
+Transport, extracellular;r1713
+Transport, extracellular;r1715
+Transport, extracellular;r1716
+Transport, extracellular;r1717
+Transport, extracellular;r1720
+Transport, extracellular;r1721
+Transport, extracellular;r1722
+Transport, extracellular;r1723
+Transport, extracellular;r1725
+Transport, extracellular;r1726
+Transport, extracellular;r1728
+Transport, extracellular;r1730
+Transport, extracellular;r1731
+Transport, extracellular;r1732
+Transport, extracellular;r1733
+Transport, extracellular;r1734
+Transport, extracellular;r1735
+Transport, extracellular;r1736
+Transport, extracellular;r1737
+Transport, extracellular;r1738
+Transport, extracellular;r1739
+Transport, extracellular;r1740
+Transport, extracellular;r1741
+Transport, extracellular;r1742
+Transport, extracellular;r1743
+Transport, extracellular;r1744
+Transport, extracellular;r1745
+Transport, extracellular;r1746
+Transport, extracellular;r1747
+Transport, extracellular;r1748
+Transport, extracellular;r1749
+Transport, extracellular;r1750
+Transport, extracellular;r1751
+Transport, extracellular;r1752
+Transport, extracellular;r1753
+Transport, extracellular;r1754
+Transport, extracellular;r1755
+Transport, extracellular;r1756
+Transport, extracellular;r1757
+Transport, extracellular;r1758
+Transport, extracellular;r1759
+Transport, extracellular;r1760
+Transport, extracellular;r1761
+Transport, extracellular;r1762
+Transport, extracellular;r1763
+Transport, extracellular;r1764
+Transport, extracellular;r1765
+Transport, extracellular;r1766
+Transport, extracellular;r1767
+Transport, extracellular;r1768
+Transport, extracellular;r1769
+Transport, extracellular;r1770
+Transport, extracellular;r1771
+Transport, extracellular;r1772
+Transport, extracellular;r1773
+Transport, extracellular;r1774
+Transport, extracellular;r1775
+Transport, extracellular;r1776
+Transport, extracellular;r1777
+Transport, extracellular;r1778
+Transport, extracellular;r1779
+Transport, extracellular;r1780
+Transport, extracellular;r1781
+Transport, extracellular;r1782
+Transport, extracellular;r1783
+Transport, extracellular;r1784
+Transport, extracellular;r1785
+Transport, extracellular;r1786
+Transport, extracellular;r1787
+Transport, extracellular;r1788
+Transport, extracellular;r1789
+Transport, extracellular;r1790
+Transport, extracellular;r1791
+Transport, extracellular;r1792
+Transport, extracellular;r1796
+Transport, extracellular;r1797
+Transport, extracellular;r1798
+Transport, extracellular;r1799
+Transport, extracellular;r1800
+Transport, extracellular;r1801
+Transport, extracellular;r1803
+Transport, extracellular;r1805
+Transport, extracellular;r1806
+Transport, extracellular;r1807
+Transport, extracellular;r1808
+Transport, extracellular;r1809
+Transport, extracellular;r1810
+Transport, extracellular;r1811
+Transport, extracellular;r1812
+Transport, extracellular;r1813
+Transport, extracellular;r1814
+Transport, extracellular;r1815
+Transport, extracellular;r1816
+Transport, extracellular;r1817
+Transport, extracellular;r1818
+Transport, extracellular;r1819
+Transport, extracellular;r1820
+Transport, extracellular;r1821
+Transport, extracellular;r1822
+Transport, extracellular;r1823
+Transport, extracellular;r1824
+Transport, extracellular;r1825
+Transport, extracellular;r1826
+Transport, extracellular;r1827
+Transport, extracellular;r1828
+Transport, extracellular;r1829
+Transport, extracellular;r1830
+Transport, extracellular;r1831
+Transport, extracellular;r1832
+Transport, extracellular;r1833
+Transport, extracellular;r1834
+Transport, extracellular;r1835
+Transport, extracellular;r1836
+Transport, extracellular;r1837
+Transport, extracellular;r1841
+Transport, extracellular;r1842
+Transport, extracellular;r1843
+Transport, extracellular;r1844
+Transport, extracellular;r1846
+Transport, extracellular;r1847
+Transport, extracellular;r1848
+Transport, extracellular;r1850
+Transport, extracellular;r1851
+Transport, extracellular;r1852
+Transport, extracellular;r1853
+Transport, extracellular;r1854
+Transport, extracellular;r1855
+Transport, extracellular;r1856
+Transport, extracellular;r1857
+Transport, extracellular;r1858
+Transport, extracellular;r1859
+Transport, extracellular;r1860
+Transport, extracellular;r1861
+Transport, extracellular;r1862
+Transport, extracellular;r1863
+Transport, extracellular;r1864
+Transport, extracellular;r1865
+Transport, extracellular;r1866
+Transport, extracellular;r1867
+Transport, extracellular;r1871
+Transport, extracellular;r1872
+Transport, extracellular;r1873
+Transport, extracellular;r1874
+Transport, extracellular;r1876
+Transport, extracellular;r1877
+Transport, extracellular;r1879
+Transport, extracellular;r1880
+Transport, extracellular;r1881
+Transport, extracellular;r1882
+Transport, extracellular;r1883
+Transport, extracellular;r1884
+Transport, extracellular;r1885
+Transport, extracellular;r1886
+Transport, extracellular;r1887
+Transport, extracellular;r1888
+Transport, extracellular;r1889
+Transport, extracellular;r1890
+Transport, extracellular;r1891
+Transport, extracellular;r1892
+Transport, extracellular;r1893
+Transport, extracellular;r1894
+Transport, extracellular;r1895
+Transport, extracellular;r1896
+Transport, extracellular;r1897
+Transport, extracellular;r1898
+Transport, extracellular;r1899
+Transport, extracellular;r1900
+Transport, extracellular;r1901
+Transport, extracellular;r1902
+Transport, extracellular;r1903
+Transport, extracellular;r1904
+Transport, extracellular;r1905
+Transport, extracellular;r1906
+Transport, extracellular;r1907
+Transport, extracellular;r1908
+Transport, extracellular;r1909
+Transport, extracellular;r1910
+Transport, extracellular;r1911
+Transport, extracellular;r1912
+Transport, extracellular;r1913
+Transport, extracellular;r1914
+Transport, extracellular;r1915
+Transport, extracellular;r1916
+Transport, extracellular;r1917
+Transport, extracellular;r1918
+Transport, extracellular;r1919
+Transport, extracellular;r1920
+Transport, extracellular;r1921
+Transport, extracellular;r1922
+Transport, extracellular;r1923
+Transport, extracellular;r1924
+Transport, extracellular;r1925
+Transport, extracellular;r1926
+Transport, extracellular;r1928
+Transport, extracellular;r1929
+Transport, extracellular;r1930
+Transport, extracellular;r1931
+Transport, extracellular;r1932
+Transport, extracellular;r1933
+Transport, extracellular;r1934
+Transport, extracellular;r1935
+Transport, extracellular;r1936
+Transport, extracellular;r1937
+Transport, extracellular;r1938
+Transport, extracellular;r1939
+Transport, extracellular;r1940
+Transport, extracellular;r1941
+Transport, extracellular;r1942
+Transport, extracellular;r1943
+Transport, extracellular;r1944
+Transport, extracellular;r1945
+Transport, extracellular;r1946
+Transport, extracellular;r1947
+Transport, extracellular;r1948
+Transport, extracellular;r1949
+Transport, extracellular;r1950
+Transport, extracellular;r1951
+Transport, extracellular;r1952
+Transport, extracellular;r1953
+Transport, extracellular;r1954
+Transport, extracellular;r1955
+Transport, extracellular;r1956
+Transport, extracellular;r1957
+Transport, extracellular;r1958
+Transport, extracellular;r1959
+Transport, extracellular;r1960
+Transport, extracellular;r1961
+Transport, extracellular;r1962
+Transport, extracellular;r1963
+Transport, extracellular;r1964
+Transport, extracellular;r1965
+Transport, extracellular;r1966
+Transport, extracellular;r1967
+Transport, extracellular;r1968
+Transport, extracellular;r1969
+Transport, extracellular;r1970
+Transport, extracellular;r1971
+Transport, extracellular;r1972
+Transport, extracellular;r1973
+Transport, extracellular;r1974
+Transport, extracellular;r1975
+Transport, extracellular;r1976
+Transport, extracellular;r1977
+Transport, extracellular;r1978
+Transport, extracellular;r1979
+Transport, extracellular;r1980
+Transport, extracellular;r1981
+Transport, extracellular;r1982
+Transport, extracellular;r1983
+Transport, extracellular;r1984
+Transport, extracellular;r1985
+Transport, extracellular;r1986
+Transport, extracellular;r1987
+Transport, extracellular;r1988
+Transport, extracellular;r1989
+Transport, extracellular;r1990
+Transport, extracellular;r1991
+Transport, extracellular;r1992
+Transport, extracellular;r1993
+Transport, extracellular;r1994
+Transport, extracellular;r1995
+Transport, extracellular;r1996
+Transport, extracellular;r1997
+Transport, extracellular;r1998
+Transport, extracellular;r1999
+Transport, extracellular;r2000
+Transport, extracellular;r2001
+Transport, extracellular;r2002
+Transport, extracellular;r2003
+Transport, extracellular;r2004
+Transport, extracellular;r2005
+Transport, extracellular;r2006
+Transport, extracellular;r2007
+Transport, extracellular;r2008
+Transport, extracellular;r2009
+Transport, extracellular;r2010
+Transport, extracellular;r2011
+Transport, extracellular;r2012
+Transport, extracellular;r2013
+Transport, extracellular;r2014
+Transport, extracellular;r2015
+Transport, extracellular;r2016
+Transport, extracellular;r2017
+Transport, extracellular;r2018
+Transport, extracellular;r2019
+Transport, extracellular;r2020
+Transport, extracellular;r2021
+Transport, extracellular;r2022
+Transport, extracellular;r2023
+Transport, extracellular;r2024
+Transport, extracellular;r2026
+Transport, extracellular;r2027
+Transport, extracellular;r2028
+Transport, extracellular;r2029
+Transport, extracellular;r2030
+Transport, extracellular;r2031
+Transport, extracellular;r2032
+Transport, extracellular;r2034
+Transport, extracellular;r2035
+Transport, extracellular;r2036
+Transport, extracellular;r2037
+Transport, extracellular;r2038
+Transport, extracellular;r2039
+Transport, extracellular;r2040
+Transport, extracellular;r2041
+Transport, extracellular;r2042
+Transport, extracellular;r2043
+Transport, extracellular;r2044
+Transport, extracellular;r2045
+Transport, extracellular;r2046
+Transport, extracellular;r2047
+Transport, extracellular;r2048
+Transport, extracellular;r2049
+Transport, extracellular;r2050
+Transport, extracellular;r2051
+Transport, extracellular;r2052
+Transport, extracellular;r2053
+Transport, extracellular;r2054
+Transport, extracellular;r2055
+Transport, extracellular;r2056
+Transport, extracellular;r2057
+Transport, extracellular;r2058
+Transport, extracellular;r2059
+Transport, extracellular;r2060
+Transport, extracellular;r2061
+Transport, extracellular;r2062
+Transport, extracellular;r2063
+Transport, extracellular;r2064
+Transport, extracellular;r2065
+Transport, extracellular;r2066
+Transport, extracellular;r2067
+Transport, extracellular;r2068
+Transport, extracellular;r2069
+Transport, extracellular;r2070
+Transport, extracellular;r2071
+Transport, extracellular;r2079
+Transport, extracellular;r2080
+Transport, extracellular;r2081
+Transport, extracellular;r2083
+Transport, extracellular;r2084
+Transport, extracellular;r2093
+Transport, extracellular;r2094
+Transport, extracellular;r2095
+Transport, extracellular;r2097
+Transport, extracellular;r2099
+Transport, extracellular;r2101
+Transport, extracellular;r2102
+Transport, extracellular;r2104
+Transport, extracellular;r2105
+Transport, extracellular;r2107
+Transport, extracellular;r2110
+Transport, extracellular;r2112
+Transport, extracellular;r2114
+Transport, extracellular;r2117
+Transport, extracellular;r2119
+Transport, extracellular;r2128
+Transport, extracellular;r2137
+Transport, extracellular;r2308
+Transport, extracellular;r2309
+Transport, mitochondrial;r2371
+Transport, mitochondrial;r2372
+Transport, mitochondrial;r2373
+Transport, mitochondrial;r2374
+Transport, mitochondrial;r2375
+Transport, mitochondrial;r2376
+Transport, mitochondrial;r2377
+Transport, mitochondrial;r2378
+Transport, mitochondrial;r2379
+Transport, mitochondrial;r2380
+Transport, mitochondrial;r2381
+Transport, mitochondrial;r2382
+Transport, mitochondrial;r2384
+Transport, mitochondrial;r2385
+Transport, mitochondrial;r2386
+Transport, mitochondrial;r2387
+Transport, mitochondrial;r2388
+Transport, mitochondrial;r2389
+Transport, mitochondrial;r2390
+Transport, mitochondrial;r2391
+Transport, mitochondrial;r2392
+Transport, mitochondrial;r2393
+Transport, mitochondrial;r2394
+Transport, mitochondrial;r2395
+Transport, mitochondrial;r2396
+Transport, mitochondrial;r2397
+Transport, mitochondrial;r2398
+Transport, mitochondrial;r2399
+Transport, mitochondrial;r2400
+Transport, mitochondrial;r2401
+Transport, mitochondrial;r2402
+Transport, mitochondrial;r2403
+Transport, mitochondrial;r2404
+Transport, mitochondrial;r2405
+Transport, mitochondrial;r2406
+Transport, mitochondrial;r2407
+Transport, mitochondrial;r2408
+Transport, mitochondrial;r2409
+Transport, mitochondrial;r2410
+Transport, mitochondrial;r2411
+Transport, mitochondrial;r2412
+Transport, mitochondrial;r2413
+Transport, mitochondrial;r2416
+Transport, mitochondrial;r2419
+Transport, mitochondrial;r2420
+Transport, extracellular;r2439
+Transport, extracellular;r2471
+Transport, mitochondrial;r2472
+Transport, endoplasmic reticular;r2473
+Transport, peroxisomal;r2516
+Transport, endoplasmic reticular;r2519
+Transport, mitochondrial;r2520
+Transport, endoplasmic reticular;r2521
+Transport, extracellular;r2525
+Transport, extracellular;r2526
+Transport, extracellular;r2532
+Transport, extracellular;r2534
+Transport, extracellular;r2535
+Exchange/demand reaction;EX_sprm_e
+Miscellaneous;RE0383C
+Pyrimidine synthesis;RE0453C
+Urea cycle;RE0688E
+Urea cycle;RE0689E
+Urea cycle;RE0690E
+Urea cycle;RE0691C
+Urea cycle;RE0827E
+Urea cycle;RE0828E
+Tryptophan metabolism;RE1233C
+Urea cycle;RE1897C
+Urea cycle;RE1898C
+Tryptophan metabolism;RE2349C
+Pyrimidine synthesis;RE2954C
+Urea cycle;RE3367E
+Exchange/demand reaction;EX_citr_L_e
+Exchange/demand reaction;EX_C02470_e
+Exchange/demand reaction;EX_CE1935_e
+Exchange/demand reaction;EX_CE1940_e
+Exchange/demand reaction;EX_CE1943_e
+Exchange/demand reaction;EX_CE1936_e
+Exchange/demand reaction;EX_CE1939_e
+Transport, extracellular;CITt4_4
+Transport, extracellular;GLYt7_311_r
+Transport, extracellular;HCO3_NAt
+Transport, extracellular;PIt8
+Transport, extracellular;PIt9
+Transport, extracellular;PROt4_2_r
+ETC_Rxns;CYOOm3
+Exchange/demand reaction;biomass
+Transport, extracellular;ALAATB0tc
+Transport, extracellular;ALAyLATthc
+Transport, extracellular;ARGATB0tc
+Transport, extracellular;ASNATB0tc
+Transport, extracellular;ASNPHELAT2tc
+Transport, extracellular;BALABETAtc
+Transport, extracellular;CHOLESTTDe
+Transport, extracellular;CYSATB0tc
+Transport, extracellular;CYSPHELAT2tc
+Transport, extracellular;CYSSNAT5tc
+Transport, extracellular;GLCSGLT1le
+Transport, extracellular;GLNATB0tc
+Transport, extracellular;GLNyLATthc
+Transport, extracellular;GLYSNAT5tc
+Transport, extracellular;HISCAT1
+Transport, extracellular;HISSNAT5tc
+Transport, extracellular;HISyLATtc
+Transport, extracellular;HISyLATthc
+Transport, extracellular;ILEATB0tc
+Transport, extracellular;ILELAT1tc
+Transport, extracellular;ILEPHELAT2tc
+Transport, extracellular;LEUATB0tc
+Transport, extracellular;LEUPHELAT2tc
+Transport, extracellular;LEUyLAThtc
+Transport, extracellular;LYSATB0tc
+Transport, extracellular;METATB0tc
+Transport, extracellular;METyLATthc
+Transport, extracellular;MTHFTe
+Unassigned;OAADC
+Transport, extracellular;ORNALArBATtc
+Transport, extracellular;ORNLEUrBATtc
+Transport, extracellular;PHEATB0tc
+Transport, extracellular;PHEyLATthc
+Transport, extracellular;PROIMINOtc
+Transport, extracellular;SERATB0tc
+Transport, extracellular;THRATB0tc
+Transport, extracellular;THRPHELAT2tc
+Transport, extracellular;TRPATB0tc
+Transport, extracellular;TYRATB0tc
+Transport, extracellular;TYRPHELAT2tc
+Transport, extracellular;VALATB0tc
+Transport, extracellular;VALLAT1tc
+Transport, extracellular;VALPHELAT2tc
+Transport, mitochondrial;3AIB_Dtm
+Transport, extracellular;3HCO3_NAt
+Purine synthesis;ADNK3
+Purine synthesis;ADNK4
+Transport, mitochondrial;AHCYStd
+Transport, mitochondrial;AMETtd
+Transport, extracellular;ASPPROASCT1
+Transport, extracellular;ASPte
+Transport, endoplasmic reticular;CHSTEROLtrc
+Transport, mitochondrial;DHAPtc
+ETC_Rxns;FADH2ETC
+Pentose phosphate pathway;G6PDH2c
+Transport, mitochondrial;GLU5SAtmc
+Transport, extracellular;GLUPROASCT1
+Transport, peroxisomal;GLY3Pt
+ETC_Rxns;GLYC3PFADm
+Transport, mitochondrial;GLYC3Ptmc
+Pentose phosphate pathway;GNDc
+Transport, peroxisomal;LACLt
+Folate metabolism;MTHFR3
+Transport, peroxisomal;NADtx
+Arginine and Proline Metabolism;P5CR
+Pentose phosphate pathway;PGLc
+Transport, mitochondrial;PPItm
+Transport, extracellular;PRO1x
+Transport, extracellular;PTCRTD
+Pentose phosphate pathway;RPEc
+Transport, extracellular;SPMTDe
+Transport, extracellular;SPRMTDe
+Transport, extracellular;34HPPte
+Transport, extracellular;3MOBte
+Transport, extracellular;3MOPte
+Transport, extracellular;4MOPte
+Transport, extracellular;5MTAte
+Transport, extracellular;AHCYSte
+Exchange/demand reaction;EX_34hpp
+Exchange/demand reaction;EX_3mob_e
+Exchange/demand reaction;EX_3mop_e
+Exchange/demand reaction;EX_4mop_e
+Exchange/demand reaction;EX_5mta_e
+Exchange/demand reaction;EX_ahcys_e
+Exchange/demand reaction;EX_mal_L_e
+Transport, extracellular;MAL_Lte
+Transport, extracellular;OROTGLUt
+;LMPD_atp_c_1_10
+;LMPD_gtp_c_1_9
+;LMPD_pail_hs_c_1_10
+;LMPD_ctp_c_1_5
+;LMPD_pchol_hs_c_1_9
+;LMPD_pe_hs_c_1_9
+;LMPD_chsterol_c_1_21
+;LMPD_pglyc_hs_c_1_11
+;LMPD_clpn_hs_c_1_12
+;LMPD_dgtp_n_1_11
+;LMPD_dctp_n_1_7
+;LMPD_datp_n_1_12
+;LMPD_dttp_n_1_11
+;LMPD_ps_hs_c_1_8
+;LMPD_sphmyln_hs_c_1_12
