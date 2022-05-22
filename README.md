@@ -37,8 +37,8 @@ To run the first two steps of the pipeline you will need to:
 5. upload to the IC_score folder the gene signatures you would like to use;  
 6. locate the directory of the Rscript.exe file on your system
 7. Open the command prompt
-  - go to the unzipped folder
-  - run: '/dir_to_Rscript/Rscript.exe' Rcodes/work_flow.R
+- go to the unzipped folder
+- run: '/dir_to_Rscript/Rscript.exe' Rcodes/work_flow.R
 
 
 
