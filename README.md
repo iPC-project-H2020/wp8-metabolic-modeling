@@ -40,5 +40,11 @@ To run the first two steps of the pipeline you will need to:
 - go to the unzipped folder
 - run: '/dir_to_Rscript/Rscript.exe' Rcodes/work_flow.R
 
+## Application to scRNA-seq data from Ewing Sarcoma
+we considered the dataset from (Aynaud et al. 2020) which comprised temporal scRNA-seq data from A63 cell line upon EWSR1-FLI1 silencing, scRNA-seq from patient-derived xenografts (PDX) under DOX+/DOX- treatment and 8 patient-derived xenografts. In addition, we consider an independent corpus of 7 unpublished scRNA-seq data from patient-derived xenograft. 
+Temporal scRNA-seq data from A63 cell lines and patient-derived xenografts under DOX+/DOX- treatment were exploited to study the effect of EWSR1-FLI1 on the metabolism by clustering cells based on gene signature associated to EwS activity.
 
+The 'job_profiles.xlsx' here provided includes the set of jobs we have runned with the pipeline. In folder scRNAseq_data, IC_genes and GEM, you can find the scRNA-seq data for the 7 PDXs from Aynaud et al. 2019, the genes signatures associated to EWSR1-FLI1 activity (ic10), cell cycle (G1/S and G2/M phases, ic1 and ic2), oxidative phosphorylation (ic4) and glucose catabolism (ic14) they identified in their study and the metabolic models used in this work.  
 
+We provide in folders cluster_info, cluster_profiles, csGEM, FBA_solution, ValToReact results for which the silhouette scores where the maximum. 
+File XX contains the results obtained using as initial model Recon3_redHuman, a thermodynamically curated version of Recon3. 
