@@ -7,7 +7,7 @@ The pipeline consists of three main steps. A first pre-processing step where dim
 ## Code organization
 The repository is organised as follows:
 1. Rcodes and MATLABcodes folders contain the R and MATLAB codes for the construction of context-specific metabolic models from scRNA-seq data.
-2. scRNA-seq_data folder should contain the scRNA-seq datasets.
+2. scRNA-seq_data folder should contain the scRNA-seq datasets. Here we provide the PDX scRNA-seq data from Aynaud et al. 2019. 
 3. GEM folder contains the initial GEM models. Here, we provide the GEMs generated in Masid et al. 2020. 
 4. IC_genes folder contains the gene set signatures used for clustering annotation. 
 
