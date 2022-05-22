@@ -31,7 +31,7 @@ The algorithms will generate 5 folders organized in sub-folders by cell-line or 
 ## Running the first two steps of the pipeline
 To run the first two steps of the pipeline you will need to:
 1. clone the folder and unzip it;
-2. set the working directory in the Rcodes/work_flow.R to the unzipped folder;
+2. set the working directory in the Rcodes/work_flow.R and the MATLABcodes/workflow.m to the unzipped folder;
 3. set the job_profiles.xlsx file;
 4. upload the scRNA-seq data in the scRNAseq_data folder;
 5. upload to the IC_score folder the gene signatures you would like to use;  
