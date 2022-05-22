@@ -2,7 +2,8 @@
 This repository provide the codes of the pipeline developped in WP8.3 for creating context-specific metabolic models from scRNA-seq data.
 To run the codes you will need to have intalled in your system R, Matlab and the Cobra toolbox. 
 
-The pipeline consists of three main steps. A first pre-processing step where dimensionality reduction, clustering and cluster annotation is performed on the scRNA-seq and a unique gene expression profile per cluster is retrieved. A second step where gene expression is integrated into a human genome-scale model by means of the GIMME algorithm. The third step consists in tuning the parameters from the previous steps with the rationale that clusters with the same annotation across multiple datasets should show a similar distribution of metabolic fluxes.
+The pipeline consists of three main steps. A first pre-processing step where dimensionality reduction, clustering and cluster annotation is performed on the scRNA-seq and a unique gene expression profile per cluster is retrieved. A second step where gene expression is integrated into a human genome-scale model by means of the GIMME algorithm. The third step consists in tuning the parameters from the previous steps with the rationale that clusters with the same annotation across multiple datasets should show a similar distribution of metabolic fluxes. To do so, we consider cluster annotations and an FBA solution from the associated context-specific model. Kernel supervised PCA is used to identify reactions that best discriminate the group of clusters with the same annotation. The method maximises the between group variance while minimising intra group variance. The silhouette score is then calculated in the kernel supervised PCA projection. The pipeline considers the number of kernels supervised principal components that explain 95% of the total variation. This score is calculated for all combinations of the parameters. Finally, the set of parameters for which the silhouette score was the maximum is selected. Note that calculating the silhouette score for a group of clusters with only one element is not allowed. We propose to attribute to that cluster the same annotation of the nearest cluster in the signature score space.
+
 
 ## Code organization
 The repository is organised as follows:
@@ -39,6 +40,14 @@ To run the first two steps of the pipeline you will need to:
 7. Open the command prompt
 - go to the unzipped folder
 - run: '/dir_to_Rscript/Rscript.exe' Rcodes/work_flow.R
+
+## Running the last step of the pipeline
+To run the last step of the pipeline you will need to run the 'silhouette_score.R' script in the Rcodes folder. You will need to: 
+1. set the working directory to the unzipped folder; 
+2. choose the initial GEM name for which you want to produce the analysis. 
+The script will generate two files: 
+1. silhouette_summary.txt will contain the silhouette score obtained for any combination of the tested parameters; 
+2. clusters_and_correlated_reactions.txt will contain the reactions associated to a class annotation across the models. 
 
 ## Application to scRNA-seq data from Ewing Sarcoma
 We considered the dataset from (Aynaud et al. 2020) which comprised temporal scRNA-seq data from A63 cell line upon EWSR1-FLI1 silencing, scRNA-seq from patient-derived xenografts (PDX) under DOX+/DOX- treatment and 8 patient-derived xenografts. In addition, we consider an independent corpus of 7 unpublished scRNA-seq data from patient-derived xenograft. 
