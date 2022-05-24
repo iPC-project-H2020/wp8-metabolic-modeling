@@ -56,4 +56,4 @@ Temporal scRNA-seq data from A63 cell lines and patient-derived xenografts under
 The 'job_profiles.xlsx' here provided includes the set of jobs we have runned with the pipeline. In folder scRNAseq_data, IC_genes and GEM, you can find the scRNA-seq data for the 7 PDXs from Aynaud et al. 2019, the genes signatures associated to EWSR1-FLI1 activity (ic10), cell cycle (G1/S and G2/M phases, ic1 and ic2), oxidative phosphorylation (ic4) and glucose catabolism (ic14) they identified in their study and the metabolic models used in this work.  
 
 We provide in folders cluster_info, cluster_profiles, csGEM, FBA_solution, ValToReact results for which the silhouette scores where the maximum. 
-File XX contains the results obtained using as initial model Recon3_redHuman, a thermodynamically curated version of Recon3. 
+File Analysis_RedHuman2.html contains the results obtained using as initial model Recon2_redHuman, a thermodynamically curated version of Recon2. 
